@@ -36,5 +36,5 @@
     "COUNTRY": "str",
 	"EVENT_DURATION_SECONDS": "int(1,999)"
   },
-  "image": "bropat/eufy-security-ws:1.0.0-rc.1"
+  "image": "bropat/eufy-security-ws"
 }
