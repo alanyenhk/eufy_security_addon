@@ -28,7 +28,8 @@
     "USERNAME": "email@address.com",
     "PASSWORD": "password",
 	"COUNTRY": "US",
-	"EVENT_DURATION_SECONDS": 10
+	"EVENT_DURATION_SECONDS": 15,
+	 "TRUSTED_DEVICE_NAME": "T8410X"
   },
   "schema": {
     "USERNAME": "email",
